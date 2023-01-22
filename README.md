@@ -2,10 +2,14 @@
 
 ![lofi-music-lofiartwork](https://user-images.githubusercontent.com/116892825/199342544-cb15e6ac-0635-47e5-9bb7-c5da319bd5db.gif)
  ## :star:**Skills**:star:
-
-![enter image description here](https://camo.githubusercontent.com/b9fe9f8e52c6fd30d814c24f3eb71cb09d7f5bc82d7f67a384055de93fdbb0bf/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352d2d76312e706e67)
-![enter image description here](https://camo.githubusercontent.com/dc75aee770dff630309493116eeebd6a39c7042e4e94780a5e6c8f107bebe76f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f637373332e706e67)
-![enter image description here](https://camo.githubusercontent.com/84c2586aa67309f6fa224fdf5fdf33a633239375397a8e753ac1e7cc727f5458/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742d2d76312e706e67)
+![html-5-svgrepo-com](https://user-images.githubusercontent.com/116892825/213936090-41c56fdc-da95-454b-a506-333573f7894a.svg)
+![css-3-svgrepo-com (1)](https://user-images.githubusercontent.com/116892825/213936104-2589fe65-c81f-4e5a-a1fd-48a8e63cc938.svg)
+![sass-svgrepo-com](https://user-images.githubusercontent.com/116892825/213936107-48e4a992-9c86-4c3e-b9fa-a4b3b127f24d.svg)
+![javascript-svgrepo-com](https://user-images.githubusercontent.com/116892825/213936109-daae909a-af1b-4596-b65a-1ad22fe1ef86.svg)
+![vue-vuejs-javascript-js-framework-svgrepo-com](https://user-images.githubusercontent.com/116892825/213936113-fa129914-1214-41ca-820f-b41845c92583.svg)
+![vite-svgrepo-com](https://user-images.githubusercontent.com/116892825/213936117-62c74283-5497-4e7f-92c0-3a6040dde9bf.svg)
+![git-svgrepo-com](https://user-images.githubusercontent.com/116892825/213936170-2c59096c-f744-41d1-8214-59e93ee3b3a2.svg)
+![java-4-logo-svgrepo-com](https://user-images.githubusercontent.com/116892825/213936193-5df655f5-9e84-4f8d-b039-2d0d8726c2c6.svg)
 ![cargando-loading-028](https://user-images.githubusercontent.com/116892825/199339405-996a6268-95a9-452c-9771-8fb9e679ded8.gif)
 
 <hr>
