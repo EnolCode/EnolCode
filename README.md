@@ -16,8 +16,8 @@
 
 - :desktop_computer: Im passionate about the world of web development and new technologies. 
 - :pencil2: I’m currently learning Bootcamp Full Stack Developer in Factoria F5 
-- :handshake: I’m looking to collaborate on any project that allows me to learn 
-- :ping_pong: Fun fact: I love sports. 
+- :handshake: I'm constantly learning how to improve as a developer and as a person.
+- :ping_pong: I love sports and healthy life. 
  <hr>
 
 
