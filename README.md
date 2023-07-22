@@ -1,4 +1,4 @@
-# Hi there, my name is Enol!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br> I'm a software development student.
+# Hi there, my name is Enol!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br> I'm a software development.
 
 ![lofi-music-lofiartwork](https://user-images.githubusercontent.com/116892825/199342544-cb15e6ac-0635-47e5-9bb7-c5da319bd5db.gif)
  ## :star:**Skills**:star:
